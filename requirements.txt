@@ -1,5 +1,6 @@
-pylint
 pytest
-click
+pytest-cov
+
+pylint
+
 black
-pytest -cov
